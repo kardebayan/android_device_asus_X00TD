@@ -17,7 +17,7 @@ PRODUCT_PACKAGES += \
 
 # Init
 PRODUCT_PACKAGES += \
-    init.device.rc
+    init.X00TD.rc
 
 # Overlays
 DEVICE_PACKAGE_OVERLAYS += \
